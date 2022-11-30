@@ -10,6 +10,7 @@ packages = [{include = "daytime_countdown_app"}]
 python = "^3.10"
 textual = "^0.5.0"
 pytest = "^7.2.0"
+black = "^22.10.0"
 
 
 [build-system]
